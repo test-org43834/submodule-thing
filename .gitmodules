@@ -1,0 +1,12 @@
+[submodule "numbers/33"]
+	path = numbers/33
+	url = https://github.com/leonardomso/33-js-concepts.git
+[submodule "numbers/30"]
+	path = numbers/30
+	url = https://github.com/30-seconds/30-seconds-of-code.git
+[submodule "vue"]
+	path = vue
+	url = https://github.com/vuejs/vue.git
+[submodule "notvue/vue"]
+	path = notvue/vue
+	url = https://github.com/facebook/react.git
